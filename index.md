@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to About page
+<h1>Hyppolite Banyingela</h1>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris quis placerat augue, vitae rhoncus nunc. Duis imperdiet neque non felis pharetra cursus. Nunc vel suscipit tellus, et malesuada metus. Vestibulum at arcu massa. Etiam eu risus sapien. Aliquam mollis massa eu tortor pharetra, non posuere tortor eleifend. Sed rutrum iaculis turpis, efficitur laoreet arcu blandit ut. Suspendisse iaculis consequat neque, in porttitor urna ornare at.
 </p>
